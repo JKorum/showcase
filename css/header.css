@@ -1,0 +1,7 @@
+#main-header {
+  background: url('../media/infinity.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-position: center;
+}
